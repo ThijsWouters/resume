@@ -1,10 +1,8 @@
 # Projects
 
-## For Tradelec
+## InTouch
 
-### Name
-
-InTouch
+For Tradelec
 
 ### Period
 
@@ -31,17 +29,9 @@ I work on the permits side of this equation.
 - iText
 - Belgian eId-card
 
---------------------------------------------------------------------------------
+## DeMorgen Backend
 
-## For Unaicle
-
-### Name
-
-DeMorgen Backend
-
-### Client
-
-De persgroep
+For Unaicle & De persgroep
 
 ### Period
 
@@ -61,15 +51,9 @@ and ultimately to the reader.
 - Elastic Search
 - Maven
 
---------------------------------------------------------------------------------
+## CCIMS
 
-### Name
-
-CCIMS
-
-### Client
-
-Roots software / Johnson&Johnson
+For Unaicle & Roots software / Johnson&Johnson
 
 ### Period
 
@@ -87,13 +71,9 @@ Johnson&Johnson. My role here was fixing bugs in the previous release.
 - Hibernate
 - Ant
 
---------------------------------------------------------------------------------
+## Protime 360°
 
-## For Protime
-
-### Name
-
-Protime 360°
+For Protime
 
 ### Period
 
@@ -119,17 +99,9 @@ spent.
 - jQuery
 - Git
 
---------------------------------------------------------------------------------
+## UMMS
 
-## For IT flex
-
-### Name
-
-UMMS
-
-### Client
-
-IPC
+For IT flex & IPC
 
 ### Period
 
@@ -168,15 +140,9 @@ we follow the Scrum methodology.
 - Maven
 - IntelliJ IDEA
 
---------------------------------------------------------------------------------
+## Transform and Validate XML module
 
-### Name
-
-Transform and Validate XML module
-
-### Client
-
-LCM
+For IT-flex & LCM
 
 ### Period
 
@@ -205,15 +171,9 @@ a CSV file as an XML.
 - Junit
 - Eclipse
 
---------------------------------------------------------------------------------
+## Organisation tool
 
-### Name
-
-Organisation tool
-
-### Client
-
-IT flex
+For IT flex
 
 ### Period
 
@@ -241,15 +201,9 @@ easily use single sign-on.
 - Spring
 - Eclipse
 
---------------------------------------------------------------------------------
+## DB2P
 
-### Name
-
-DB2P
-
-### Client
-
-SIGeDIS
+For IT-flex & SIGeDIS
 
 ### Period
 
@@ -284,13 +238,9 @@ transformed into an xml from which FOP generates the PDF.
 - FreeMarker
 - FOP
 
---------------------------------------------------------------------------------
+## Web Client
 
-## For FedEx
-
-### Name
-
-Web Client
+For FedEx
 
 ### Period
 
@@ -313,6 +263,7 @@ Apart from these features, the customer can also check his stock in
 the warehouse of FedEx.
 
 ### Technologies
+
 - Java EE
 - Struts
 - Tiles
@@ -321,11 +272,9 @@ the warehouse of FedEx.
 - Ant
 - Eclipse
 
---------------------------------------------------------------------------------
+## Web Services
 
-### Name
-
-Web Services
+For FedEx
 
 ### Period
 
@@ -344,16 +293,15 @@ There is a service to send packages, to track packages, to get prices
 and to resend shipping documents.
 
 ### Technologies
+
 - Java EE
 - BEA WebLogic Web Services API
 - EJB
 - Eclipse
 
---------------------------------------------------------------------------------
+## Web Client
 
-### Name
-
-Web Client for FedEx India
+For FedEx India
 
 ### Period
 

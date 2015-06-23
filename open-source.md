@@ -10,8 +10,6 @@ https://github.com/ThijsWouters/sanatio
 
 Written by me
 
---------------------------------------------------------------------------------
-
 ## ROM::GeneratedId
 
 ### Repo
@@ -21,8 +19,6 @@ https://github.com/ThijsWouters/rom-generated_id
 ### Involvement
 
 Written by me
-
---------------------------------------------------------------------------------
 
 ## Mustache-Sinatra
 
@@ -36,8 +32,6 @@ https://github.com/mustache/mustache-sinatra
 - Started with Rspec tests
 - Fixed some bugs
 
---------------------------------------------------------------------------------
-
 ## eId-applet
 
 ### Repo
@@ -47,8 +41,6 @@ https://github.com/e-Contract/eid-applet
 ### Involvement
 
 Layout for the readme
-
---------------------------------------------------------------------------------
 
 ## Helpful
 
