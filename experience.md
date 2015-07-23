@@ -12,7 +12,7 @@
 
     > *Ruby Developer* at *Protime*
 
-- May 2011 - July 2013
+- May 2011 - June 2013
 
     > *Java Consultant* at *IT flex*
 
