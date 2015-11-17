@@ -39,29 +39,12 @@ Belgian
 
 # Experience
 
-- March 2014 - Present
-
-    > *Senior Java Developer* at *Tradelec*
-
-- November 2013 - February 2014
-
-    > *Java Consultant* at *Unaicle*
-
-- July 2013 - October 2013
-
-    > *Ruby Developer* at *Protime*
-
-- May 2011 - June 2013
-
-    > *Java Consultant* at *IT flex*
-
-- February 2008 - April 2011
-
-    > *Java Web developer* at *FedEx*
-
-- August 2007 - January 2008
-
-    > *Helpdesk* at *IP Globalnet*
+- __March 2014 - Present__ _Senior Java Developer at Tradelec_
+- __November 2013 - February 2014__ _Java Consultant at Unaicle_
+- __July 2013 - October 2013__ _Ruby Developer at Protime_
+- __May 2011 - June 2013__ _Java Consultant at IT flex_
+- __February 2008 - April 2011__ _Java Web developer at FedEx_
+- __August 2007 - January 2008__ _Helpdesk at IP Globalnet_
 
 # Projects
 
