@@ -1,7 +1,5 @@
 # Thijs Wouters
 
-# Personal Information
-
 ## Address
 
 Nieuwstraat 55
@@ -31,13 +29,13 @@ Belgian
 - __French__ _Good_
 - __German__ _Reasonable_
 
-# Education
+## Education
 
 - __2003 - 2007__ _Informatics (undergraduate), Katholieke Universiteit, Leuven_
 - __2000 - 2003__ _Applied Informatics (specialization programmer), KHK, Geel_
 - __1994 - 2000__ _Economics-Mathematics, St. Aloysius College, Geel_
 
-# Experience
+## Experience
 
 - __March 2014 - Present__ _Senior Java Developer at Tradelec_
 - __November 2013 - February 2014__ _Java Consultant at Unaicle_
@@ -48,7 +46,7 @@ Belgian
 
 # Projects
 
-## InTouch
+## [InTouch](intouch.md)
 
 InTouch is a web application that ensures that citizens and companies can apply
 for permits. It also ensures that the city can check these permits and write
@@ -56,26 +54,10 @@ tickets if necessary.
 
 I work on the permits side of this equation.
 
-### Client
-
-Tradelec
-
-### Period
-
-March 2014 - Present
-
 ### Technologies
 
-- Java
-- REST easy
-- Maven
-- JBoss
-- EJB
-- JPA
-- Postgresql
-- Velocity
-- iText
-- Belgian eId-card
+Java, REST easy, Maven, JBoss, Postgresql, Velocity, iText,
+Belgian eId-card, Ansible
 
 ## DeMorgen Backend
 
