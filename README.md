@@ -1,10 +1,10 @@
 # Thijs Wouters
 
-> Nieuwstraat 55
-
-> 3971 Heppen
-
-> Belgium
+```
+Nieuwstraat 55
+3971 Heppen
+Belgium
+```
 
 - __E-mail__ _<thijs@morewood.be>_
 - __Phone__ _+32 499/26.23.64_
