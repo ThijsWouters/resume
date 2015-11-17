@@ -6,7 +6,6 @@
 
 - __E-mail__ _<thijs@morewood.be>_
 - __Phone__ _+32 499/26.23.64_
-- __Nationality__ _Belgian_
 - __Github__ _<https://github.com/ThijsWouters/>_
 
 ## Languages
