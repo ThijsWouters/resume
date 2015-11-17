@@ -116,54 +116,15 @@ Java Server Faces (JSF), EJB, Eclipse
 
 # Open Source
 
-## Sanatio
+## Written
 
-### Repo
+- [Sanatio](https://github.com/ThijsWouters/sanatio)
+- [ROM::GeneratedId](https://github.com/ThijsWouters/rom-generated_id)
 
-https://github.com/ThijsWouters/sanatio
+## Contributions
 
-### Involvement
-
-Written by me
-
-## ROM::GeneratedId
-
-### Repo
-
-https://github.com/ThijsWouters/rom-generated_id
-
-### Involvement
-
-Written by me
-
-## Mustache-Sinatra
-
-### Repo
-
-https://github.com/mustache/mustache-sinatra
-
-### Involvement
-
-- Started with rake tasks
-- Started with Rspec tests
-- Fixed some bugs
-
-## eId-applet
-
-### Repo
-
-https://github.com/e-Contract/eid-applet
-
-### Involvement
-
-Layout for the readme
-
-## Helpful
-
-### Repo
-
-https://github.com/asm-helpful/helpful-web
-
-### Involvement
-
-Fixed some bugs
+- [Calendar](https://github.com/lau/calendar)
+- [Elixir Release manager](https://github.com/bitwalker/exrm)
+- [Mustache-Sinatra](https://github.com/mustache/mustache-sinatra)
+- [eId-applet](https://github.com/e-Contract/eid-applet)
+- [Helpful](https://github.com/asm-helpful/helpful-web)
