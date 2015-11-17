@@ -46,69 +46,69 @@ Belgian
 
 # Projects
 
-## [InTouch](intouch.md)
+## [InTouch](projects/intouch.md)
 
 > Permit system
 
 Java, REST easy, Maven, JBoss, Postgresql, Velocity, iText,
 Belgian eId-card, Ansible
 
-## [DeMorgen Backend](de_morgen.md)
+## [DeMorgen Backend](projects/de_morgen.md)
 
 > Backend for a mobile app
 
 Java, Spring, Spring MVC, Elastic Search, Maven
 
-## [CCIMS](ccims.md)
+## [CCIMS](projects/ccims.md)
 
 > Study system
 
 Java, Spring, Hibernate, Ant
 
-## [Protime 360°](protime_360.md)
+## [Protime 360°](projects/protime_360.md)
 
 > Project management tool
 
 Ruby, Ruby on Rails, RSpec, Cucumber, FactoryGirl, jQuery, Git
 
-## [UMMS](umms.md)
+## [UMMS](projects/umms.md)
 
 > Postal testing service
 
 Java, Spring, Spring MVC, Hibernate, My Batis, JUnit, Selenium, dbUnit,
 Spring WebFlow, Twitter Bootstrap, jQuery, Maven, IntelliJ IDEA
 
-## [Transform and Validate XML module](xml_module.md)
+## [Transform and Validate XML module](projects/xml_module.md)
 
 > XML library from scratch
 
 Java, SAX, StAX, XSLT, XSD, Junit, Eclipse
 
-## [Organisation tool](organisation_tool.md)
+## [Organisation tool](projects/organisation_tool.md)
 
 > Inhouse organisation tool
 
 Java EE, JSF, Facelets, RichFaces, Selenium, Junit, Hibernate, Maven, Spring, Eclipse
 
-## [DB2P](db2p.md)
+## [DB2P](projects/db2p.md)
 
 > Additional pension tool
 
 Java EE, Struts, Tiles, Maven, Eclipse, JavaScript (MooTools), Spring, FreeMarker, FOP
 
-## [FedEx Web Client](fedex_web_client.md)
+## [FedEx Web Client](projects/fedex_web_client.md)
 
 > Package shipping & tracking
 
 Java EE, Struts, Tiles, EJB, Axis, Ant, Eclipse
 
-## [FedEx Web Services](fedex_web_services.md)
+## [FedEx Web Services](projects/fedex_web_services.md)
 
 > Package shipping & tracking
 
 Java EE, BEA WebLogic Web Services API, EJB, Eclipse
 
-## [FedEx India Web Client](fedex_india_web_client.md)
+## [FedEx India Web Client](projects/fedex_india_web_client.md)
 
 > Package shipping & tracking in India
 
