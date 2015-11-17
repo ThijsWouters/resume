@@ -48,11 +48,7 @@ Belgian
 
 ## [InTouch](intouch.md)
 
-InTouch is a web application that ensures that citizens and companies can apply
-for permits. It also ensures that the city can check these permits and write
-tickets if necessary.
-
-I work on the permits side of this equation.
+> A system for permits
 
 ### Technologies
 
