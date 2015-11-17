@@ -49,7 +49,7 @@ Java, Spring, Spring MVC, Elastic Search, Maven
 
 ## [CCIMS](projects/ccims.md)
 
-> Study system
+> Study management tool
 
 Java, Spring, Hibernate, Ant
 
