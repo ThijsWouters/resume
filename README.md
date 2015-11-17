@@ -1,62 +1,41 @@
-# Resume
+# Thijs Wouters
 
 # Personal Information
 
-## Thijs Wouters
-
-### Address
+## Address
 
 Nieuwstraat 55
 
 3971 Heppen, Belgium
 
-### Email
+## Email
 
 <thijs@morewood.be>
 
-### Phone
+## Phone
 
 +32 499/26.23.64
 
-### Nationality
+## Nationality
 
 Belgian
 
-### Github
+## Github
 
 <https://github.com/ThijsWouters/>
 
-### Languages
+## Languages
 
-- Dutch
-
-    > Mothertongue
-
-- English
-
-    > Very good
-
-- French
-
-    > Good
-
-- German
-
-    > Reasonable
+- __Dutch__ _Mothertongue_
+- __English__ _Very good_
+- __French__ _Good_
+- __German__ _Reasonable_
 
 # Education
 
-- 2003-2007
-
-    > Informatics (undergraduate), Katholieke Universiteit, Leuven
-
-- 2000-2003
-
-    > Applied Informatics (specialization programmer), KHK, Geel
-
-- 1994 - 2000
-
-    > Economics-Mathematics, St. Aloysius College, Geel
+- __2003 - 2007__ _Informatics (undergraduate), Katholieke Universiteit, Leuven_
+- __2000 - 2003__ _Applied Informatics (specialization programmer), KHK, Geel_
+- __1994 - 2000__ _Economics-Mathematics, St. Aloysius College, Geel_
 
 # Experience
 
@@ -405,4 +384,56 @@ February 2008 - April 2011
 - EJB
 - Eclipse
 
-[Open Source](open-source.md)
+# Open Source
+
+## Sanatio
+
+### Repo
+
+https://github.com/ThijsWouters/sanatio
+
+### Involvement
+
+Written by me
+
+## ROM::GeneratedId
+
+### Repo
+
+https://github.com/ThijsWouters/rom-generated_id
+
+### Involvement
+
+Written by me
+
+## Mustache-Sinatra
+
+### Repo
+
+https://github.com/mustache/mustache-sinatra
+
+### Involvement
+
+- Started with rake tasks
+- Started with Rspec tests
+- Fixed some bugs
+
+## eId-applet
+
+### Repo
+
+https://github.com/e-Contract/eid-applet
+
+### Involvement
+
+Layout for the readme
+
+## Helpful
+
+### Repo
+
+https://github.com/asm-helpful/helpful-web
+
+### Involvement
+
+Fixed some bugs
