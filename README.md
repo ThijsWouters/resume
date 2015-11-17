@@ -48,9 +48,7 @@ Belgian
 
 ## [InTouch](intouch.md)
 
-> A system for permits
-
-### Technologies
+> A permit system
 
 Java, REST easy, Maven, JBoss, Postgresql, Velocity, iText,
 Belgian eId-card, Ansible
