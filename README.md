@@ -25,7 +25,7 @@ Belgium
 
 ## Experience
 
-- __March 2014 - Present__ _Senior Java Developer at Tradelec_
+- __March 2014 - March 2016__ _Senior Java Developer at Tradelec_
 - __November 2013 - February 2014__ _Java Consultant at Unaicle_
 - __July 2013 - October 2013__ _Ruby Developer at Protime_
 - __May 2011 - June 2013__ _Java Consultant at IT flex_
