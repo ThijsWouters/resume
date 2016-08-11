@@ -12,7 +12,7 @@ Tradelec
 
 ## Period
 
-March 2014 - Present
+March 2014 - March 2016
 
 ## Technologies
 
