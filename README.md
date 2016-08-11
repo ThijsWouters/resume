@@ -25,6 +25,7 @@ Belgium
 
 ## Experience
 
+- __March 2016 - now__ _Senior Java Developer at Syntegro_
 - __March 2014 - March 2016__ _Senior Java Developer at Tradelec_
 - __November 2013 - February 2014__ _Java Consultant at Unaicle_
 - __July 2013 - October 2013__ _Ruby Developer at Protime_
@@ -33,6 +34,12 @@ Belgium
 - __August 2007 - January 2008__ _Helpdesk at IP Globalnet_
 
 # Projects
+
+## [SynCore](projects/syncore.md)
+
+> Access control and time registration
+
+Java, Tomcat, Ext.js, Postgresql
 
 ## [InTouch](projects/intouch.md)
 
