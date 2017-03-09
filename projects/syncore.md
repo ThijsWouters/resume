@@ -1,5 +1,8 @@
 # SynCore
 
+SynCore is an access control system.
+It can also handle time registration.
+
 ## Client
 
 Syntegro
