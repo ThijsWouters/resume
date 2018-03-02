@@ -1,15 +1,13 @@
 # Thijs Wouters
 
-```
-Vloei 17
-2450 Meerhout
+Vloei 17  
+2450 Meerhout  
 Belgium
-```
 
-- __E-mail__ _<thijs@morewood.be>_
-- __Phone__ _+32 499/26.23.64_
-- __Github__ _[https://github.com/ThijsWouters/](https://github.com/ThijsWouters/)_
-- __GitLab__ _[https://gitlab.com/thijs-wouters](https://gitlab.com/thijs-wouters)_
+__E-mail__ _<thijs@morewood.be>_  
+__Phone__ _+32 499/26.23.64_  
+__Github__ _[https://github.com/ThijsWouters/](https://github.com/ThijsWouters/)_  
+__GitLab__ _[https://gitlab.com/thijs-wouters](https://gitlab.com/thijs-wouters)_
 
 ## Languages
 
