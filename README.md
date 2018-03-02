@@ -26,6 +26,7 @@ Belgium
 
 ## Experience
 
+- __August 2017 - January 2018__ _Programmer at Willems_
 - __March 2016 - April 2017__ _Senior Java Developer at Syntegro_
 - __March 2014 - March 2016__ _Senior Java Developer at Tradelec_
 - __November 2013 - February 2014__ _Java Consultant at Unaicle_
@@ -35,6 +36,18 @@ Belgium
 - __August 2007 - January 2008__ _Helpdesk at IP Globalnet_
 
 # Projects
+
+## [CRM](https://github.com/ThijsWouters/resume/tree/master/projects/crm.md)
+
+> Customer relationship manager for sales
+
+ASP, .NET, VisualBasic, SqlServer
+
+## [ERP](https://github.com/ThijsWouters/resume/tree/master/projects/erm.md)
+
+> Enterprise resource planner
+
+WPF, WinForms, .NET, VisualBasic, SqlServer
 
 ## [SynCore](https://github.com/ThijsWouters/resume/tree/master/projects/syncore.md)
 

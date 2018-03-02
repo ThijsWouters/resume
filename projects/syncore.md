@@ -9,7 +9,7 @@ Syntegro
 
 ## Period
 
-March 2016 - Present
+March 2016 - April 2017
 
 ## Technologies
 
