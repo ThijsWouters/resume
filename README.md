@@ -24,6 +24,7 @@ __GitLab__ _[https://gitlab.com/thijs-wouters](https://gitlab.com/thijs-wouters)
 
 ## Experience
 
+- __January 2019 - January 2023__ _Senior Java Developer at Cegeka_
 - __August 2017 - January 2018__ _Programmer at Willems_
 - __March 2016 - April 2017__ _Senior Java Developer at Syntegro_
 - __March 2014 - March 2016__ _Senior Java Developer at Tradelec_
@@ -34,6 +35,12 @@ __GitLab__ _[https://gitlab.com/thijs-wouters](https://gitlab.com/thijs-wouters)
 - __August 2007 - January 2008__ _Helpdesk at IP Globalnet_
 
 # Projects
+
+## [Ventouris](https://github.com/ThijsWouters/resume/tree/master/projects/ventouris.md)
+
+> Self-employed registration system used by social security funds
+
+Java, EJB, Spring Bootstrap, REST, GraphQL, Gradle, RichFaces, Oracle  
 
 ## [CRM](https://github.com/ThijsWouters/resume/tree/master/projects/crm.md)
 
